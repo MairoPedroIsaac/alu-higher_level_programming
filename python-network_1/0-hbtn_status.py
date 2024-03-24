@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"""__summary__
-- Write a Python script that fetches https://alu-intranet.hbtn.io/status
-- using the urllib package.
-"""
+"""Python script that fetches https://alu-intranet.hbtn.io/status"""
+
+
 import urllib.request
 
 
