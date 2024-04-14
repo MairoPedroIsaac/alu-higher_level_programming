@@ -16,7 +16,6 @@ def matrix_mul(m_a, m_b):
     :rtype: list of list of unt/floats
     """
 
-
     if m_a == [] or m_a == [[]]:
         raise ValueError("m_a can't be empty")
     if m_b == [] or m_b == [[]]:
